@@ -14,7 +14,7 @@ public class pascalTriangleI {
                 System.out.print(num + " ");
             }
             System.out.println();
-        }
+        } 
     }
 
     public static List<List<Integer>> generateTriangle(int numRows) {

@@ -16,7 +16,7 @@ public class pascalTriangleR {
             }
             System.out.println();
         }
-    }
+    } 
 
     public static void main(String[] args) {
         int numRows = 8;

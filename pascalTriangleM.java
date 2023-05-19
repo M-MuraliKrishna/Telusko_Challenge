@@ -9,7 +9,7 @@ public class pascalTriangleM {
 
     public static void main(String[] args) {
         int numRows = 9;
-
+ 
         for (int row = 0; row < numRows; row++) {
             for (int col = 0; col <= row; col++) {
                 int coefficient = calculateCoefficient(row, col);
